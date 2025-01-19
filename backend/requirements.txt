@@ -1,0 +1,9 @@
+astrapy
+Flask
+flask-cors
+requests
+bs4
+html5lib
+langchain_astradb
+langchain_openai
+langchain

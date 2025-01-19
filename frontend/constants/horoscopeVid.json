@@ -1,0 +1,16 @@
+[
+  { "name": "aries", "path": "/public/videos/horoscope/aries.webm" },
+  { "name": "taurus", "path": "/public/videos/horoscope/taurus.webm" },
+  { "name": "gemini", "path": "/public/videos/horoscope/gemini.webm" },
+  { "name": "cancer", "path": "/public/videos/horoscope/cancer.webm" },
+  { "name": "leo", "path": "/public/videos/horoscope/leo.webm" },
+  { "name": "virgo", "path": "/public/videos/horoscope/virgo.webm" },
+  { "name": "libra", "path": "/public/videos/horoscope/libra.webm" },
+  { "name": "scorpio", "path": "/public/videos/horoscope/scorpio.webm" },
+  {
+    "name": "sagittarius",
+    "path": "/public/videos/horoscope/sagittarius.webm"
+  },
+  { "name": "capricorn", "path": "/public/videos/horoscope/capricorn.webm" },
+  { "name": "pisces", "path": "/public/videos/horoscope/pisces.webm" }
+]
